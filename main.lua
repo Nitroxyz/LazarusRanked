@@ -1,6 +1,6 @@
 meta = {
     name = "Lazarus Ranked",
-    version = "0.4",
+    version = "0.3",
     author = "Nitroxy",
     description = ""
 }
@@ -9,7 +9,7 @@ meta = {
 
 local prev_option = 1;
 
-local stuff = import("Nitroxy/Lazarus Ankh", "8.5");
+local stuff = import("Nitroxy/Lazarus Ankh", "8.4");
 
 local saved_data = {
     penalty = 30,
